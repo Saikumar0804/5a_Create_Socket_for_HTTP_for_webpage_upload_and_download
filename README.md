@@ -17,5 +17,5 @@ To write a PYTHON program for socket for HTTP for web page upload and download
 <BR>
 ## Program 
 ## OUTPUT
-## Result
+## Result 
 Thus the socket for HTTP for web page upload and download created and Executed
